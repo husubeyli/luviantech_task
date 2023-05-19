@@ -1,5 +1,5 @@
-const baseUrl="http://127.0.0.1:8000";
-// const baseUrl="http://localhost";
+// const baseUrl="http://127.0.0.1:8000";
+const baseUrl="http://localhost";
 var headers ={'Authorization': 'Bearer ' + $.cookie('access_token')}
 
 // Register
